@@ -3,7 +3,7 @@
 > **Disciplina:** Inteligencia Artificial  
 > **Tema:** Otimizacao Combinatoria do Problema do Caixeiro Viajante (Traveling Salesperson Problem - TSP)  
 > **Integrantes da Dupla:** Rhyan Nascimento e Vitória Leal  
-> **Video da Apresentacao (Max. 5 minutos):** **[LINK DO VIDEO MP4 / YOUTUBE / GOOGLE DRIVE](https://link-do-video-aqui.com)** *(Inserir link do video aqui)*  
+> **Video da Apresentacao (Max. 5 minutos):** [apresentacao.mp4](./apresentacao.mp4)  
 > **Repositorio GitHub:** [https://github.com/drgeralt/ia-tsp-genetic-algorithm](https://github.com/drgeralt/ia-tsp-genetic-algorithm)
 
 ---
@@ -465,6 +465,7 @@ pytest -v
 ```text
 ia-tsp-genetic-algorithm/
 |-- .gitignore                  # Arquivos ignorados pelo Git
+|-- apresentacao.mp4            # Video da apresentacao do projeto (<= 5 minutos)
 |-- main.py                     # Ponto de entrada com argumentos de CLI
 |-- pytest.ini                  # Configuracao do pytest
 |-- README.md                   # Documentacao completa da apresentacao e projeto

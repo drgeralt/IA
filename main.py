@@ -62,7 +62,7 @@ def parse_args():
         "--seed",
         type=int,
         default=67,
-        help="Semente pseudoaleatória para reprodutibilidade (padrão: 42)",
+        help="Semente pseudoaleatória para reprodutibilidade (padrão: 67)",
     )
     parser.add_argument(
         "--output-dir",
